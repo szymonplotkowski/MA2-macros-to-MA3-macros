@@ -3,6 +3,7 @@
  
 
 HOW TO:\
+-Download whole repo and unzip.\
 -Put XML file with Your macros in script folder.\
 -Rename XML File to 'ma2 macros.xml'\
 -Run script\
