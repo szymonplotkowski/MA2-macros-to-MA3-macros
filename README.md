@@ -6,11 +6,11 @@ HOW TO:\
 -Put XML file with Your macros in script folder.\
 -Rename XML File to 'ma2 macros.xml'\
 -Run script\
--Enjoy Your new directory 'ma3macros' full of new files\
+-Enjoy Your new directory 'ma3macros' full of new files
 
 KNOWN ISSUES:\
--Macronames that contains illegal characters (ex. < >) causes crash.\
+-Macronames that contains illegal characters (ex. < >) causes crash.
 
 FAQ:\
 Q: Why its returning multiple files instead of one?\
-A: For now MA3 is not capable to import 'multiple macros' file.\
+A: For now MA3 is not capable to import 'multiple macros' file.
