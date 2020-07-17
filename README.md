@@ -10,7 +10,8 @@ HOW TO:\
 -Enjoy Your new directory 'ma3macros' full of new files
 
 KNOWN ISSUES:\
--Macronames that contains illegal characters (ex. < >) causes crash.
+-Macronames that contains characters illegal for filenames (ex. < >) causes crash.\
+ Workaround: open 'ma2 macros.xml' with some file editor and batch-change that chars for something different.
 
 FAQ:\
 Q: Why its returning multiple files instead of one?\
