@@ -6,7 +6,7 @@ HOW TO:\
 -Download whole repo and unzip.\
 -Put XML file with Your macros in script folder.\
 -Rename XML File to 'ma2 macros.xml'\
--Run script\
+-Run script (*.exe or main.py)\
 -Enjoy Your new directory 'ma3macros' full of new files
 
 KNOWN ISSUES:\
